@@ -13,3 +13,7 @@ h4 {
 .group_name{
   color: rgb(26, 125, 216);
 }
+.grid-container {
+  display: grid;
+  
+}
