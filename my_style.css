@@ -17,4 +17,11 @@ h4 {
   display: grid;
   grid-template-columns: auto auto;
   grid-template-rows: auto auto;
+  border-right-style: solid;
+  border-color: blue;
+}
+
+.activity-item{
+  background-color: aquamarine;
+  color: aliceblue;
 }
