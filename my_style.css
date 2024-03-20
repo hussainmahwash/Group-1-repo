@@ -1,5 +1,5 @@
 body {
-  background-color: rgb(235, 235, 235);
+  background-color: white
 }
 
 h1 {
@@ -13,8 +13,6 @@ p {
 .activity-item {
   background-color: rgb(19, 139, 190);
   color: white;
-  border-style: solid;
-  border-color: blue;
 }
 
 
